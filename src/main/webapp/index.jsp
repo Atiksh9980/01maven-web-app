@@ -1,7 +1,10 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT software training institute (Hydrabad location)..!!<font></h1>
+<h1><font color='red'>Welcome to Ashok IT software training institute ..!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!!</h2>
+  
+<h3> we are located at Hydrabad</h3>
+  
 <p>ashok it is a leading training institute<p>
 <p> Contact : +919980222704<p>
 <a href="https://wa.me/+919980222704">send whats app message to ashokitadmin team for more information....<a> <br/>
