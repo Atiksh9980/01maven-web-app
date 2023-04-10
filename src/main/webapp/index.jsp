@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT : : Leading software training institute Banglore..!!<font></h1>
+<h1><font color='red'>Welcome to Ashok IT : : Leading software training institute Hydrabad..!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!!</h2>
   
 <h3> we are located at Hydrabad Ameerpet </h3>
